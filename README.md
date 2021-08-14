@@ -1,8 +1,7 @@
-### __A self-taght front-end developer__
+## A self-taght front-end developer
 
-<hr/>
+### Contact me
 
-#### Contact me
-[<img alt="facebook profile" src="https://camo.githubusercontent.com/c4c06a397ab9bdae3a07af592524a7fc3b8ddc91c161332951b12ce5f5079959/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66616365626f6f6b2d2532333138373746322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465"/>](https://www.facebook.com/profile.php?id=100025326254791)
-[<img alt="linkedin profile" src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"/>](https://www.linkedin.com/in/th%E1%BB%8Bnh-%C4%91o%C3%A0n-ph%C3%BA-890a31212/)
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100025326254791)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th%E1%BB%8Bnh-%C4%91o%C3%A0n-ph%C3%BA-890a31212/)
 
