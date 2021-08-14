@@ -8,8 +8,9 @@
 
 ### Skills
 
-[![HTML](https://img.shields.io/badge/html-%23DD4B25.svg?&style=for-the-badge&logo=HTML5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)]()
-[![React](https://img.shields.io/badge/React-%2361dafb.svg?&style=for-the-badge&logo=React&logoColor=white)]()
-[![Javascript](https://img.shields.io/badge/JavaScript-%23f7df1e.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)]()
+![HTML](https://img.shields.io/badge/html-%23DD4B25.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-%23f7df1e.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+[![React](https://img.shields.io/badge/React-%2361dafb.svg?&style=for-the-badge&logo=React&logoColor=white)](https://github.com/facebook/react)
+
 
