@@ -1,3 +1,3 @@
-###A self taght front-end developer
+### A self taght front-end developer
 <br/>
 Contact me
