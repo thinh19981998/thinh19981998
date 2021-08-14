@@ -1,3 +1,4 @@
-### A self taght front-end developer
-<br/>
+# A self taght front-end developer
+<hr/>
+
 Contact me
