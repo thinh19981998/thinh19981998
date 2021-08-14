@@ -13,4 +13,16 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-%23f7df1e.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 [![React](https://img.shields.io/badge/React-%2361dafb.svg?&style=for-the-badge&logo=React&logoColor=white)](https://github.com/facebook/react)
 
+### Hello visitors
+
+<p align="center">
+   <code>Visitor count</code>
+   <img src="https://profile-counter.glitch.me/thinh19981998/count.svg" />
+  
+   <br>
+   <a href="https://hits.seeyoufarm.com">
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthinh19981998&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
+   </a>
+  </p>
+
 
