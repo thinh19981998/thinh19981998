@@ -1,4 +1,4 @@
-## A self-taght front-end developer
+## A self-taught front-end developer
 
 ### Contact me
 
