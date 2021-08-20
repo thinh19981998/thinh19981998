@@ -7,7 +7,7 @@
 [![StackOverflow](https://img.shields.io/badge/stackoverflow-%23F48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/16664659/th%e1%bb%8bnh-%c4%90o%c3%a0n-ph%c3%ba)
 
 
-### Skills
+### Main Technologies
 
 ![HTML](https://img.shields.io/badge/html-%23DD4B25.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
