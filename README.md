@@ -13,6 +13,7 @@
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-%23f7df1e.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 [![React](https://img.shields.io/badge/React-%2361dafb.svg?&style=for-the-badge&logo=React&logoColor=white)](https://github.com/facebook/react)
+[![Nodejs](https://img.shields.io/badge/Nodejs-%339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)](https://github.com/nodejs)
 
 ### Hello visitors  <a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="48"></a>
 
